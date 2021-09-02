@@ -25,3 +25,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## JSON Placeholder
+
+The project uses the JSON Placeholder free API in order to provide mock information for the examples. You can read information about it on [JSON Placeholder](https://jsonplaceholder.typicode.com/) page.
